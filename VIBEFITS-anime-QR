@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="2;url=https://www.instagram.com/vibefits.anime/">
+  <title>Vibefits Anime ❤️</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: linear-gradient(145deg, #ffb900, #ff005d);
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+    main { padding: 28px; }
+    h1 { font-size: 2.2rem; }
+    p { font-size: 1.1rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Ab follow back bhi kar de 😭😂❤️</h1>
+    <p>Welcome to Vibefits Anime 🖤</p>
+    <p>Opening Instagram…</p>
+  </main>
+</body>
+</html>
